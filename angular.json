@@ -34,16 +34,7 @@
   "src/assets/love/default.css"
             ],
            "scripts": [
-  "src/assets/love/jquery.min.js",
-  "src/assets/love/jscex.min.js",
-  "src/assets/love/jscex-parser.js",
-  "src/assets/love/jscex-jit.js",
-  "src/assets/love/jscex-builderbase.min.js",
-  "src/assets/love/jscex-async.min.js",
-  "src/assets/love/jscex-async-powerpack.min.js",
-  "src/assets/love/functions.js",
-  "src/assets/love/love.js",
-  "src/assets/love/script.js"
+
 ]
           },
           "configurations": {
